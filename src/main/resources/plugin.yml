@@ -1,0 +1,7 @@
+name: GamebandTech
+version: '${project.version}'
+main: xyz.lazycat.gamebandtech.Main
+api-version: 1.19
+prefix: BANDTECH
+load: STARTUP
+authors: [ LazyCat, smilingCat ]
